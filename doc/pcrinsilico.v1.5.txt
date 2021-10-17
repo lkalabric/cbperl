@@ -1,0 +1,21 @@
+Some argument is missing.
+
+pcrinsilico versão 1.5
+NAME
+  pcrinsilico - evaluate primers' sensibility to detect Reference Sequences.
+	
+SYNOPSIS
+  pcrinsilico.pl <primerlist.fasta> <refseq.fasta> [output_filename.txt]
+
+DESCRIPTION
+  Despite primerlist.fasta is a FASTA file, replace " " by "_" in the label of each primer sequence.
+  RefSeq can be download by querying GenBank with a query string using baixa_FASTA_GB.v3.0.pl
+
+EXAMPLES
+  perl pcrinsilico.v1.5.pl HEV_primer.fasta sHEV_sequences.fasta sHEV_pcrinsilico.txt
+
+REFERENCE
+  Perl Meta CPAN Bio::SeqIO <https://metacpan.org/pod/Bio::SeqIO>
+
+AUTHOR
+  Luciano Kalabric Silva <luciano.kalabric@fiocruz.br>

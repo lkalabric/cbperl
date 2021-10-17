@@ -1,0 +1,37 @@
+Some argument is missing.
+
+baixa_FASTA_GB versão 3.0
+NAME
+  baixa_FASTA_GB - query Nucleotide at GenBank and download fasta files.
+	
+SYNOPSIS
+  baixa_FASTA_GB.pl <opções> <query> [redirect type] [output_filename.fasta]
+
+DESCRIPTION
+  The options and queries are:
+	-id		Unique ID#
+	-av		Accession# or Version#
+	-qe		Entrez query string
+	-li		Accession list filename
+
+  Redirect can be: add (default) or app
+
+Note: The default input and output path is "~/cbperl/data/". The default 
+Accession list filename is "acclist.txt". The default output filename is 
+"sequences.fasta".
+
+EXAMPLES
+  Example 1: Reference Sequence Human Chromosome 1
+  baixa_FASTA_GB.pl -av NC_000001.11 NC_000001.11.fasta
+  baixa_FASTA_GB.pl -qe "Homo sapiens[organism] Chromosome 1" human_chr1.fasta
+
+  Example 2: sequências do vírus da hepatite C
+  baixa_FASTA_GB.pl -av M62321 M62321.fasta
+  baixa_FASTA_GB.pl -qe "(Hepatitis C virus subtype 1a[Organism]) AND complete genome" sequences.fasta
+  baixa_FASTA_GB.pl -li acclist.txt sequences.fasta
+
+REFERENCE
+  Perl Meta CPAN Bio::DB::GenBank <https://metacpan.org/pod/Bio::DB::GenBank>
+
+AUTHOR
+  Luciano Kalabric Silva <luciano.kalabric@fiocruz.br>

@@ -1,0 +1,26 @@
+Some argument is missing.
+
+anota_Primer versão 2.0
+NAME
+  anota_Primer - annotate primers in a Reference Sequence using regular 
+  expression search.
+	
+SYNOPSIS
+  anota_Primer.pl <primerlist.fasta> <refseq.fasta> [output_filename.gff]
+
+DESCRIPTION
+  primerlist.fasta is multisequence FASTA file. Note: Please replace " " 
+  by "_" in the label of each primer before running anota_Primer.
+  RefSeq is a FASTA file. You can download RefSeq by Accession.Version# 
+  using baixa_FASTA_GB.v3.0.pl
+
+EXAMPLES
+  perl anota_Primer.v2.0.pl HEV_primer.fasta M73218.fasta HEV_anotaPrimer.gff
+
+REFERENCE
+  CBPerl Curso Básico sobre Perl
+  Perl Meta CPAN Bio::Seq <https://metacpan.org/pod/Bio::Seq>
+  Perl Meta CPAN Bio::SeqIO <https://metacpan.org/pod/Bio::SeqIO>
+
+AUTHOR
+  Luciano Kalabric Silva <luciano.kalabric@fiocruz.br>

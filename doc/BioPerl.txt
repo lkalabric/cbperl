@@ -1,0 +1,271 @@
+NAME
+    Bio::Perl - Functional access to BioPerl for people who don't know
+    objects
+
+SYNOPSIS
+      use Bio::Perl;
+
+      # will guess file format from extension
+      $seq_object = read_sequence($filename);
+
+      # forces genbank format
+      $seq_object = read_sequence($filename,'genbank');
+
+      # reads an array of sequences
+      @seq_object_array = read_all_sequences($filename,'fasta');
+
+      # sequences are Bio::Seq objects, so the following methods work
+      # for more info see Bio::Seq, or do 'perldoc Bio/Seq.pm'
+
+      print "Sequence name is ",$seq_object->display_id,"\n";
+      print "Sequence acc  is ",$seq_object->accession_number,"\n";
+      print "First 5 bases is ",$seq_object->subseq(1,5),"\n";
+
+      # get the whole sequence as a single string
+
+      $sequence_as_a_string = $seq_object->seq();
+
+      # writing sequences
+
+      write_sequence(">$filename",'genbank',$seq_object);
+
+      write_sequence(">$filename",'genbank',@seq_object_array);
+
+      # making a new sequence from just a string
+
+      $seq_object = new_sequence("ATTGGTTTGGGGACCCAATTTGTGTGTTATATGTA",
+          "myname","AL12232");
+
+      # getting a sequence from a database (assumes internet connection)
+
+      $seq_object = get_sequence('swissprot',"ROA1_HUMAN");
+
+      $seq_object = get_sequence('embl',"AI129902");
+
+      $seq_object = get_sequence('genbank',"AI129902");
+
+      # BLAST a sequence (assummes an internet connection)
+
+      $blast_report = blast_sequence($seq_object);
+
+      write_blast(">blast.out",$blast_report);
+
+DESCRIPTION
+    Easy first time access to BioPerl via functions.
+
+FEEDBACK
+  Mailing Lists
+    User feedback is an integral part of the evolution of this and other
+    Bioperl modules. Send your comments and suggestions preferably to one of
+    the Bioperl mailing lists. Your participation is much appreciated.
+
+      bioperl-l@bioperl.org
+
+  Support
+    Please direct usage questions or support issues to the mailing list:
+
+    *bioperl-l@bioperl.org*
+
+    rather than to the module maintainer directly. Many experienced and
+    reponsive experts will be able look at the problem and quickly address
+    it. Please include a thorough description of the problem with code and
+    data examples if at all possible.
+
+  Reporting Bugs
+    Report bugs to the Bioperl bug tracking system to help us keep track the
+    bugs and their resolution. Bug reports can be submitted via the web:
+
+      https://redmine.open-bio.org/projects/bioperl/
+
+AUTHOR - Ewan Birney
+    Email birney@ebi.ac.uk
+
+APPENDIX
+    The rest of the documentation details each of the object methods.
+    Internal methods are usually preceded with a _
+
+  read_sequence
+     Title   : read_sequence
+     Usage   : $seq = read_sequence('sequences.fa')
+               $seq = read_sequence($filename,'genbank');
+
+               # pipes are fine
+               $seq = read_sequence("my_fetching_program $id |",'fasta');
+
+     Function: Reads the top sequence from the file. If no format is given, it will
+               try to guess the format from the filename. If a format is given, it
+               forces that format. The filename can be any valid perl open() string
+               - in particular, you can put in pipes
+
+     Returns : A Bio::Seq object. A quick synopsis:
+               $seq_object->display_id - name of the sequence
+               $seq_object->seq        - sequence as a string
+
+     Args    : Two strings, first the filename - any Perl open() string is ok
+               Second string is the format, which is optional
+
+    For more information on Seq objects see Bio::Seq.
+
+  read_all_sequences
+     Title   : read_all_sequences
+     Usage   : @seq_object_array = read_all_sequences($filename);
+               @seq_object_array = read_all_sequences($filename,'genbank');
+
+     Function: Just as the function above, but reads all the sequences in the
+               file and loads them into an array.
+
+               For very large files, you will run out of memory. When this
+               happens, you've got to use the SeqIO system directly (this is
+               not so hard! Don't worry about it!).
+
+     Returns : array of Bio::Seq objects
+
+     Args    : two strings, first the filename (any open() string is ok)
+               second the format (which is optional)
+
+    See Bio::SeqIO and Bio::Seq for more information
+
+  write_sequence
+     Title   : write_sequence
+     Usage   : write_sequence(">new_file.gb",'genbank',$seq)
+               write_sequence(">new_file.gb",'genbank',@array_of_sequence_objects)
+
+     Function: writes sequences in the specified format
+
+     Returns : true
+
+     Args    : filename as a string, must provide an open() output file
+               format as a string
+               one or more sequence objects
+
+  new_sequence
+     Title   : new_sequence
+     Usage   : $seq_obj = new_sequence("GATTACA", "kino-enzyme");
+
+     Function: Construct a sequency object from sequence string
+     Returns : A Bio::Seq object
+
+     Args    : sequence string
+               name string (optional, default "no-name-for-sequence")
+               accession - accession number (optional, no default)
+
+  blast_sequence
+     Title   : blast_sequence
+     Usage   : $blast_result = blast_sequence($seq)
+               $blast_result = blast_sequence('MFVEGGTFASEDDDSASAEDE');
+
+     Function: If the computer has Internet accessibility, blasts
+               the sequence using the NCBI BLAST server against nrdb.
+
+               It chooses the flavour of BLAST on the basis of the sequence.
+
+               This function uses Bio::Tools::Run::RemoteBlast, which itself
+               use Bio::SearchIO - as soon as you want to know more, check out
+               these modules
+     Returns : Bio::Search::Result::GenericResult.pm
+
+     Args    : Either a string of protein letters or nucleotides, or a
+               Bio::Seq object
+
+  write_blast
+     Title   : write_blast
+     Usage   : write_blast($filename,$blast_report);
+
+     Function: Writes a BLAST result object (or more formally
+               a SearchIO result object) out to a filename
+               in BLAST-like format
+
+     Returns : none
+
+     Args    : filename as a string
+               Bio::SearchIO::Results object
+
+  get_sequence
+     Title   : get_sequence
+     Usage   : $seq_object = get_sequence('swiss',"ROA1_HUMAN");
+
+     Function: If the computer has Internet access this method gets
+               the sequence from Internet accessible databases. Currently
+               this supports Swissprot ('swiss'), EMBL ('embl'), GenBank
+               ('genbank'), GenPept ('genpept'), and RefSeq ('refseq').
+
+               Swissprot and EMBL are more robust than GenBank fetching.
+
+               If the user is trying to retrieve a RefSeq entry from
+               GenBank/EMBL, the query is silently redirected.
+
+     Returns : A Bio::Seq object
+
+     Args    : database type - one of swiss, embl, genbank, genpept, or
+               refseq
+
+  translate
+     Title   : translate
+     Usage   : $seqobj = translate($seq_or_string_scalar)
+
+     Function: translates a DNA sequence object OR just a plain
+               string of DNA to amino acids
+     Returns : A Bio::Seq object
+
+     Args    : Either a sequence object or a string of
+               just DNA sequence characters
+
+  translate_as_string
+     Title   : translate_as_string
+     Usage   : $seqstring = translate_as_string($seq_or_string_scalar)
+
+     Function: translates a DNA sequence object OR just a plain
+               string of DNA to amino acids
+     Returns : A string of just amino acids
+
+     Args    : Either a sequence object or a string of
+               just DNA sequence characters
+
+  reverse_complement
+     Title   : reverse_complement
+     Usage   : $seqobj = reverse_complement($seq_or_string_scalar)
+
+     Function: reverse complements a string or sequence argument
+               producing a Bio::Seq - if you want a string, you
+               can use reverse_complement_as_string
+     Returns : A Bio::Seq object
+
+     Args    : Either a sequence object or a string of
+               just DNA sequence characters
+
+  revcom
+     Title   : revcom
+     Usage   : $seqobj = revcom($seq_or_string_scalar)
+
+     Function: reverse complements a string or sequence argument
+               producing a Bio::Seq - if you want a string, you
+               can use reverse_complement_as_string
+
+               This is an alias for reverse_complement
+     Returns : A Bio::Seq object
+
+     Args    : Either a sequence object or a string of
+               just DNA sequence characters
+
+  reverse_complement_as_string
+     Title   : reverse_complement_as_string
+     Usage   : $string = reverse_complement_as_string($seq_or_string_scalar)
+
+     Function: reverse complements a string or sequence argument
+               producing a string
+     Returns : A string of DNA letters
+
+     Args    : Either a sequence object or a string of
+               just DNA sequence characters
+
+  revcom_as_string
+     Title   : revcom_as_string
+     Usage   : $string = revcom_as_string($seq_or_string_scalar)
+
+     Function: reverse complements a string or sequence argument
+               producing a string
+     Returns : A string of DNA letters
+
+     Args    : Either a sequence object or a string of
+               just DNA sequence characters
+
