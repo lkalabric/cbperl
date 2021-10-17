@@ -1,0 +1,29 @@
+Organização dos arquivos do projeto CBPerl
+
++---curso/
+|   Arquivos de aula do curso CBPerl
+|
++---data/
+|   Arquivos de dados utilizados nos exemplos, exercicios e scripts
+|
++---doc/
+|   Documentação sobre os módulos
+|
++---ebooks/
+|   Referências para consulta sobre Perl
+|
++---examples/
+|   Programas desenvolvidos em sala para aprender Perl
+|
++---exercises/
+|   Programas desenvolvidos pelos alunos, revisados
+|
++---lib/
+|   Módulo BeginPerlBioinfo e CBPerl
+|
++---scripts/
+|   Programas desenvolvidos e em produção
+|
++--www/
+     |
+     +---cgi-bin/
