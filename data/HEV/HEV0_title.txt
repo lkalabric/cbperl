@@ -1,0 +1,598 @@
+>AB220979.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA41
+>AB220978.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA37
+>AB220977.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA36
+>AB220976.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA28
+>AB220975.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA19
+>AB220974.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA2
+>AB220973.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JF5
+>AB220972.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JF4
+>AB220971.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JF3
+>LC145325.1 Hepatitis E virus genomic RNA, complete genome, strain: ratELOMB-131
+>LC126332.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: P10_pJE03-1760F_wt
+>LC126331.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: P5_pJE03-1760F_wt
+>AB189071.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JDEER-Hyo03L
+>AB189070.1 Hepatitis E virus genomic RNA, complete genome, isolate: JBOAR1-Hyo04
+>AB301710.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F
+>GU206559.1 Hepatitis E virus isolate bjsw1, complete genome
+>FJ426404.1 Swine hepatitis E virus isolate swKOR-2, complete genome
+>FJ426403.1 Swine hepatitis E virus isolate swKOR-1, complete genome
+>AB291968.1 Hepatitis E virus genomic RNA, complete genome, isolate: JMM-Aba06C
+>AB291967.1 Hepatitis E virus genomic RNA, complete genome, isolate: JKO-Aba-FH06C
+>AB291964.1 Hepatitis E virus genomic RNA, complete genome, isolate: JYK-Tok03C
+>AB291963.1 Hepatitis E virus genomic RNA, complete genome, isolate: JRM-Toy05C
+>AB291962.1 Hepatitis E virus genomic RNA, complete genome, isolate: JHK-Toy04C
+>AB291961.1 Hepatitis E virus genomic RNA, complete genome, isolate: JMH-Osa04C
+>AB291958.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JNH-Ehi04L
+>AB080575.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JI4
+>MF959765.1 Hepatitis E virus isolate WB/HEV/NA21ITA15, complete genome
+>MF959764.1 Hepatitis E virus isolate WB/HEV/NA17ITA15, complete genome
+>NC_001434.1 Hepatitis E virus, complete genome
+>KR905549.1 Hepatitis E virus isolate Yunnan-2013, complete genome
+>KX574712.1 Swine hepatitis E virus isolate HLJ-220, complete genome
+>KY436898.1 Hepatitis E virus isolate ME-2016-rab52, complete genome
+>KX531115.1 Swine hepatitis E virus strain HB-S3, complete genome
+>KP294371.1 Hepatitis E virus strain MWP_2010, complete genome
+>KT727028.1 Swine hepatitis E virus isolate CCST-517, complete genome
+>KT447528.1 Hepatitis E virus isolate Sing-HEV23, complete genome
+>KT447527.1 Hepatitis E virus isolate Sing-HEV20, complete genome
+>KT447526.1 Hepatitis E virus isolate Sing-HEV01, complete genome
+>KT633715.1 Hepatitis E virus strain ZhJ-PJ050-3, complete genome
+>JQ655736.1 Hepatitis E virus isolate W2-5, complete genome
+>JQ655735.1 Hepatitis E virus isolate W3, complete genome
+>JQ655733.1 Hepatitis E virus isolate MO, complete genome
+>KC692453.1 Hepatitis E virus strain CH-YT-sHEV01, complete genome
+>KC163335.1 Hepatitis E virus isolate CH-YT-1, complete genome
+>KJ507956.1 Swine hepatitis E virus strain swSTHY42-VAS49/2003/CA, complete genome
+>KJ507955.1 Swine hepatitis E virus strain swSTHY12-VAS19/2003/CA, complete genome
+>KJ155502.1 Swine hepatitis E virus isolate KM01, complete genome
+>AB291966.1 Hepatitis E virus genomic RNA, complete genome, isolate: JST-KitAsa04C
+>AB291965.1 Hepatitis E virus genomic RNA, complete genome, isolate: HRC-HE14C
+>AB291959.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JTC-Kit-FH04L
+>JX565469.1 Hepatitis E virus isolate CMC-1, complete genome
+>JQ993308.1 Hepatitis E virus strain HEV-ZJ1, complete genome
+>GU119961.3 Swine hepatitis E virus isolate CHN-XJ-SW13, complete genome
+>GU119960.2 Swine hepatitis E virus isolate CHN-XJ-SW33, complete genome
+>AB481229.1 Swine hepatitis E virus genomic RNA, complete genome, isolate: swJR-P5
+>AB481228.1 Swine hepatitis E virus genomic RNA, complete genome, isolate: swJB-M8
+>AB481227.1 Swine hepatitis E virus genomic RNA, complete genome, isolate: swJB-H7
+>AB481226.1 Swine hepatitis E virus genomic RNA, complete genome, isolate: swJB-E10
+>FJ763142.1 Hepatitis E virus isolate KNIH-hHEV4, complete genome
+>FJ610232.1 Swine hepatitis E virus isolate swCH189, complete genome
+>DQ459342.1 Hepatitis E virus from India, complete genome
+>AB291960.1 Hepatitis E virus genomic RNA, complete genome, isolate: JTK-Kag06C
+>AB291957.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JYU-Oki04L
+>AB291956.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JYM-Tot04L
+>AB291955.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JSW-Kyo-FH06L
+>AB291954.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JSS-Oka04L
+>AB291953.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JSO-Oki05L
+>AB291952.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIY-Tot05L
+>AB291951.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIO-Sai97L
+>AB443627.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIO-swJ19-8
+>AB443626.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIO-swJ19-7
+>AB443625.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIO-swJ19-5
+>AB443624.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIO-swJ19-2
+>AB443623.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JIO-swJ19-1
+>AB073912.1 Swine hepatitis E virus genomic RNA, complete genome
+>EU360977.1 Hepatitis E virus isolate swX07-E1, complete genome
+>LC490579.1 Hepatitis E virus rJB-RC81 RNA, complete genome
+>MH504163.1 Hepatitis E virus isolate HEV_1_London_UK_150114, complete genome
+>MH504162.1 Hepatitis E virus isolate HEV_2_Aylesbury_UK_240314, complete genome
+>MH504161.1 Hepatitis E virus isolate HEV_3_Exeter_UK_180414, complete genome
+>MH504160.1 Hepatitis E virus isolate HEV_4_Surrey_UK_NA, complete genome
+>MH504159.1 Hepatitis E virus isolate HEV_5_Surrey_UK_230414, complete genome
+>MH504158.1 Hepatitis E virus isolate HEV_6_Oldham_UK_150614, complete genome
+>MH504157.1 Hepatitis E virus isolate HEV_7_London_UK_210614, complete genome
+>MH504156.1 Hepatitis E virus isolate HEV_8_London_UK_011014, complete genome
+>MH504155.1 Hepatitis E virus isolate HEV_9_Brighton_UK_221214, complete genome
+>MH504154.1 Hepatitis E virus isolate HEV_10_Hillingdon_UK_020315, complete genome
+>MH504153.1 Hepatitis E virus isolate HEV_11_Torquay_UK_NA, complete genome
+>MH504152.1 Hepatitis E virus isolate HEV_12_Belfast_UK_300714, complete genome
+>MH504151.1 Hepatitis E virus isolate HEV_13_Swansea_UK_210814, complete genome
+>MH504150.1 Hepatitis E virus isolate HEV_14_South_Sheilds_UK_130914, complete genome
+>MH504149.1 Hepatitis E virus isolate HEV_15_London_UK_090914, complete genome
+>MH504148.1 Hepatitis E virus isolate HEV_16_Bristol_UK_180814, complete genome
+>MH504147.1 Hepatitis E virus isolate HEV_17_Leeds_UK_170914, complete genome
+>MH504146.1 Hepatitis E virus isolate HEV_18_Chichester_UK_300914, complete genome
+>MH504145.1 Hepatitis E virus isolate HEV_19_Surrey_UK_180814, complete genome
+>MH504144.1 Hepatitis E virus isolate HEV_20_Swansea_UK_241014, complete genome
+>MH504143.1 Hepatitis E virus isolate HEV_21_Derby_UK_031114, complete genome
+>MH504142.1 Hepatitis E virus isolate HEV_22_Manchester_UK_061114, complete genome
+>MH504141.1 Hepatitis E virus isolate HEV_23_Portsmouth_UK_171214, complete genome
+>MH504140.1 Hepatitis E virus isolate HEV_24_Nottingham_UK_181214, complete genome
+>MH504139.1 Hepatitis E virus isolate HEV_25_Gloucester_UK_271214, complete genome
+>MH504138.1 Hepatitis E virus isolate HEV_26_Oldham_UK_131114, complete genome
+>MH504137.1 Hepatitis E virus isolate HEV_27_Poole_UK_111114, complete genome
+>MH504136.1 Hepatitis E virus isolate HEV_28_Gloucester_UK_251114, complete genome
+>MH504135.1 Hepatitis E virus isolate HEV_29_Southampton_UK_021214, complete genome
+>MH504134.1 Hepatitis E virus isolate HEV_30_London_UK_NA, complete genome
+>MH504133.1 Hepatitis E virus isolate HEV_31_Oxford_UK_051214, complete genome
+>MH504132.1 Hepatitis E virus isolate HEV_32_Manchester_301214, complete genome
+>MH504131.1 Hepatitis E virus isolate HEV_33_Newcastle_UK_NA, complete genome
+>MH504130.1 Hepatitis E virus isolate HEV_34_Newcastle_UK_221214, complete genome
+>MH504129.1 Hepatitis E virus isolate HEV_35_Poole_UK_050115, complete genome
+>MH504128.1 Hepatitis E virus isolate HEV_36_Brighton_UK_070115, complete genome
+>MH504127.1 Hepatitis E virus isolate HEV_37_Gloucester_UK_080115, complete genome
+>MH504126.1 Hepatitis E virus isolate HEV_38_Surrey_UK_090115, complete genome
+>MH504125.1 Hepatitis E virus isolate HEV_39_Aylesbury_UK_080115, complete genome
+>MH504124.1 Hepatitis E virus isolate HEV_40_Bedford_UK_130115, complete genome
+>LC439299.1 Hepatitis E virus rJB-D54 RNA, complete genome
+>LC386855.1 Hepatitis E virus huJB-0326 RNA, complete genome
+>KY232313.1 Hepatitis E virus isolate TH-hu-F45-1, complete genome
+>KY232312.1 Hepatitis E virus isolate TH-hu-S45-1, complete genome
+>KT581448.1 Hepatitis E virus type 3 isolate SW8a24_Spain, complete genome
+>KT581447.1 Hepatitis E virus type 3 isolate SW46_8-Dalarna, complete genome
+>KT581446.1 Hepatitis E virus type 3 isolate WB193-Halland, complete genome
+>KT581445.1 Hepatitis E virus type 3 isolate WB69-Kronoberg, complete genome
+>KT581444.1 Hepatitis E virus type 3 isolate SW3_6-Uppsala, complete genome
+>KT581443.1 Hepatitis E virus type 3 isolate SW1_3-Uppsala, complete genome
+>MF346773.1 Hepatitis E virus isolate CH_17LA00702, complete genome
+>MF346772.1 Hepatitis E virus isolate CH_16020189, complete genome
+>LC131066.1 Hepatitis E virus genomic RNA, complete genome, strain: huJB-0414
+>KM253769.1 Swine hepatitis E virus isolate HN-JY40, complete genome
+>LC042232.1 Hepatitis E virus type 4 genomic RNA, nearly complete genome, isolate: CVS-Sie10
+>JF915746.1 Hepatitis E virus isolate SAAS-FX17, complete genome
+>JQ953666.1 Hepatitis E virus strain FR-SHEV3f, complete genome
+>JQ953665.1 Hepatitis E virus strain FR-SHEV3e, complete genome
+>JQ953664.1 Hepatitis E virus strain FR-SHEV3c-like, complete genome
+>JX120573.1 Hepatitis E virus strain Vietnam-105, complete genome
+>GU937805.1 Hepatitis E virus isolate ch-bj-n1, complete genome
+>AB591734.1 Hepatitis E virus genomic RNA, complete genome, strain: JMNG36-Oki08
+>AB591733.1 Hepatitis E virus genomic RNA, complete genome, strain: JMNG26-Oki08
+>AF455784.1 Hepatitis E virus strain Osh 205, complete genome
+>AY230202.1 Hepatitis E virus from Morocco, complete genome
+>AF076239.3 Hepatitis E virus from Hyderabad, India, complete genome
+>AF051830.1 Hepatitis E virus strain TK15/92, complete genome
+>FJ998008.1 Swine hepatitis E virus isolate BB02, complete genome
+>AY723745.1 Hepatitis E virus isolate IND-SW-00-01, complete genome
+>DQ279091.2 Swine hepatitis E virus isolate swDQ, complete genome
+>FJ705359.1 Hepatitis E virus isolate wbGER27, complete genome
+>FJ527832.2 Hepatitis E virus isolate SAAS-JDY5, complete genome
+>AB197673.1 Hepatitis E virus genomic RNA, complete genome, isolate: JKO-ChiSai98C
+>AB197674.1 Hepatitis E virus genomic RNA, complete genome, isolate: JYI-ChiSai01C
+>EU723514.2 Swine hepatitis E virus isolate SWP6, complete genome
+>EU723512.2 Swine hepatitis E virus isolate SW626, complete genome
+>EU723516.1 Swine hepatitis E virus isolate SWP8, complete genome
+>EU723515.1 Swine hepatitis E virus isolate SWP7, complete genome
+>EU723513.1 Swine hepatitis E virus isolate SW627, complete genome
+>AP003430.1 Hepatitis E virus genomic RNA, complete genome, isolate: JRA1
+>EU676172.2 Swine hepatitis E virus isolate swGX40, complete genome
+>EF570133.1 Hepatitis E virus isolate SH-SW-zs1, complete genome
+>DQ450072.1 Hepatitis E virus isolate swCH31, complete genome
+>AB253420.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate:HEVN2
+>MN646696.1 Hepatitis E virus clone HEPAC-100-2, complete genome
+>MN646695.1 Hepatitis E virus clone HEPAC-93-3, complete genome
+>MN646694.1 Hepatitis E virus clone HEPAC-26-2, complete genome
+>MN646693.1 Hepatitis E virus clone HEPAC-94-2, complete genome
+>MN646692.1 Hepatitis E virus clone HEPAC-93-2, complete genome
+>MN646691.1 Hepatitis E virus clone HEPAC-12-3, complete genome
+>MN646690.1 Hepatitis E virus clone HEPAC-12-2, complete genome
+>MN646689.1 Hepatitis E virus clone HEPAC-100, complete genome
+>MN614141.1 Hepatitis E virus isolate HEV0069_culture, complete genome
+>MN614140.1 Hepatitis E virus isolate HEV0069_serum, complete genome
+>MN401238.1 Hepatitis E virus isolate VIC-G1, complete genome
+>MN401237.1 Hepatitis E virus isolate BOU-G3, complete genome
+>MK192409.1 Hepatitis E virus strain common vole/KS_11_819/CZE/2010, complete genome
+>MK192408.1 Hepatitis E virus strain common vole/KS_11_746/CZE/2010, complete genome
+>MK192407.1 Hepatitis E virus strain common vole/KS_11_700/GER/2010, complete genome
+>MK192406.1 Hepatitis E virus strain common vole/KS_10_2645/GER/2010, complete genome
+>MK192405.1 Hepatitis E virus strain common vole/KS_10_1641/GER/2009, complete genome
+>MK410053.1 Swine hepatitis E virus strain SWU/7-173/2018, complete genome
+>MK410052.1 Swine hepatitis E virus strain SWU/7-180/2018, complete genome
+>MK410051.1 Swine hepatitis E virus strain SWU/7-175/2018, complete genome
+>MK410050.1 Swine hepatitis E virus strain SWU/L9/2018, complete genome
+>MK410049.1 Swine hepatitis E virus strain SWU/B6/2018, complete genome
+>MK410048.1 Swine hepatitis E virus strain SWU/42-5/2018, complete genome
+>MK410047.1 Swine hepatitis E virus strain SWU/ZX8/2018, complete genome
+>MK410046.1 Swine hepatitis E virus strain SWU/31-12/2018, complete genome
+>MK410045.1 Swine hepatitis E virus strain SWU/E4/2018, complete genome
+>MK410044.1 Swine hepatitis E virus strain SWU/D18/2018, complete genome
+>MH450031.1 Hepatitis E virus isolate HEVGB166, complete genome
+>MH450030.1 Hepatitis E virus isolate HEVGB144, complete genome
+>MH450029.1 Hepatitis E virus isolate HEVGB40, complete genome
+>MH450028.1 Hepatitis E virus isolate HEVGB31, complete genome
+>MH450027.1 Hepatitis E virus isolate HEVGB16, complete genome
+>MH450026.1 Hepatitis E virus isolate HEVF387, complete genome
+>MH450025.1 Hepatitis E virus isolate HEVF385, complete genome
+>MH450024.1 Hepatitis E virus isolate HEVF371, complete genome
+>MH450023.1 Hepatitis E virus isolate HEVF46, complete genome
+>MH450022.1 Hepatitis E virus isolate HEVCU644, complete genome
+>MH450021.1 Hepatitis E virus isolate HEVCU634, complete genome
+>MH450020.1 Hepatitis E virus isolate HEVBK001, complete genome
+>MH992013.1 Hepatitis E virus isolate BDHEVM082, nearly complete genome
+>MH992012.1 Hepatitis E virus isolate BDHEVMX02, nearly complete genome
+>MH992011.1 Hepatitis E virus isolate BDHEVM112, nearly complete genome
+>MH992010.1 Hepatitis E virus isolate BDHEVF170, nearly complete genome
+>MH992009.1 Hepatitis E virus isolate BDHEVF151, nearly complete genome
+>MH992008.1 Hepatitis E virus isolate BDHEVF126, nearly complete genome
+>MH992007.1 Hepatitis E virus isolate BDHEVF120, nearly complete genome
+>MH992006.1 Hepatitis E virus isolate BDHEVM143, nearly complete genome
+>MH992005.1 Hepatitis E virus isolate BDHEVM127, nearly complete genome
+>MH992004.1 Hepatitis E virus isolate BDHEVM118, nearly complete genome
+>MH992003.1 Hepatitis E virus isolate BDHEVM085, nearly complete genome
+>MH992002.1 Hepatitis E virus isolate BDHEVFP18, nearly complete genome
+>MH992001.1 Hepatitis E virus isolate BDHEVM198, nearly complete genome
+>MH992000.1 Hepatitis E virus isolate BDHEVM188, nearly complete genome
+>MH991999.1 Hepatitis E virus isolate BDHEVM128, nearly complete genome
+>MH991998.1 Hepatitis E virus isolate BDHEVM125, nearly complete genome
+>MH991997.1 Hepatitis E virus isolate BDHEVM089, nearly complete genome
+>MH991996.1 Hepatitis E virus isolate BDHEVM079, nearly complete genome
+>MH991995.1 Hepatitis E virus isolate BDHEVMX08, nearly complete genome
+>MH991994.1 Hepatitis E virus isolate BDHEVF034, nearly complete genome
+>MH991993.1 Hepatitis E virus isolate BDHEVF004, nearly complete genome
+>MK390971.1 Hepatitis E virus isolate 17RS1920, complete genome
+>MK390970.1 Hepatitis E virus isolate 17RS2551-4, complete genome
+>MH410176.1 Hepatitis E virus strain M2, complete genome
+>MH410175.1 Hepatitis E virus strain M1, complete genome
+>MH410174.1 Hepatitis E virus strain BcHEV-GP, complete genome
+>MF444143.1 Hepatitis E virus isolate HEPAC-166, complete genome
+>MF444142.1 Hepatitis E virus isolate HEPAC-93, complete genome
+>MF444141.1 Hepatitis E virus isolate HEPAC-121, complete genome
+>MF444140.1 Hepatitis E virus isolate HEPAC-158, complete genome
+>MF444139.1 Hepatitis E virus isolate HEPAC-76, complete genome
+>MF444138.1 Hepatitis E virus isolate HEPAC-152, complete genome
+>MF444137.1 Hepatitis E virus isolate HEPAC-36, complete genome
+>MF444136.1 Hepatitis E virus isolate HEPAC-19, complete genome
+>MF444135.1 Hepatitis E virus isolate HEPAC-38, complete genome
+>MF444134.1 Hepatitis E virus isolate HEPAC-59, complete genome
+>MF444133.1 Hepatitis E virus isolate HEPAC-181, complete genome
+>MF444132.1 Hepatitis E virus isolate HEPAC-21, complete genome
+>MF444131.1 Hepatitis E virus isolate HEPAC-35, complete genome
+>MF444130.1 Hepatitis E virus isolate HEPAC-179, complete genome
+>MF444129.1 Hepatitis E virus isolate HEPAC-185, complete genome
+>MF444128.1 Hepatitis E virus isolate HEPAC-155, complete genome
+>MF444127.1 Hepatitis E virus isolate HEPAC-98, complete genome
+>MF444125.1 Hepatitis E virus isolate HEPAC-122, complete genome
+>MF444124.1 Hepatitis E virus isolate HEPAC-51, complete genome
+>MF444123.1 Hepatitis E virus isolate HEPAC-163, complete genome
+>MF444122.1 Hepatitis E virus isolate HEPAC-173, complete genome
+>MF444120.1 Hepatitis E virus isolate HEPAC-56, complete genome
+>MF444117.1 Hepatitis E virus isolate HEPAC-174, complete genome
+>MF444116.1 Hepatitis E virus isolate HEPAC-157, complete genome
+>MF444115.1 Hepatitis E virus isolate HEPAC-44, complete genome
+>MF444114.1 Hepatitis E virus isolate HEPAC-96, complete genome
+>MF444113.1 Hepatitis E virus isolate HEPAC-86, complete genome
+>MF444112.1 Hepatitis E virus isolate HEPAC-171, complete genome
+>MF444111.1 Hepatitis E virus isolate HEPAC-172, complete genome
+>MF444110.1 Hepatitis E virus isolate HEPAC-111, complete genome
+>MF444109.1 Hepatitis E virus isolate HEPAC-62, complete genome
+>MF444108.1 Hepatitis E virus isolate HEPAC-37, complete genome
+>MF444107.1 Hepatitis E virus isolate HEPAC-85, complete genome
+>MF444106.1 Hepatitis E virus isolate HEPAC-165, complete genome
+>MF444105.1 Hepatitis E virus isolate HEPAC-32, complete genome
+>MF444104.1 Hepatitis E virus isolate HEPAC-71, complete genome
+>MF444103.1 Hepatitis E virus isolate HEPAC-14, complete genome
+>MF444102.1 Hepatitis E virus isolate HEPAC-22, complete genome
+>MF444101.1 Hepatitis E virus isolate HEPAC-58, complete genome
+>MF444100.1 Hepatitis E virus isolate HEPAC-84, complete genome
+>MF444099.1 Hepatitis E virus isolate HEPAC-89, complete genome
+>MF444098.1 Hepatitis E virus isolate HEPAC-33, complete genome
+>MF444097.1 Hepatitis E virus isolate HEPAC-43, complete genome
+>MF444096.1 Hepatitis E virus isolate HEPAC-17, complete genome
+>MF444095.1 Hepatitis E virus isolate HEPAC-70, complete genome
+>MF444094.1 Hepatitis E virus isolate HEPAC-177, complete genome
+>MF444093.1 Hepatitis E virus isolate HEPAC-29, complete genome
+>MF444092.1 Hepatitis E virus isolate HEPAC-183, complete genome
+>MF444091.1 Hepatitis E virus isolate HEPAC-61, complete genome
+>MF444090.1 Hepatitis E virus isolate HEPAC-169, complete genome
+>MF444089.1 Hepatitis E virus isolate HEPAC-26, complete genome
+>MF444088.1 Hepatitis E virus isolate HEPAC-46, complete genome
+>MF444087.1 Hepatitis E virus isolate HEPAC-25, complete genome
+>MF444085.1 Hepatitis E virus isolate HEPAC-83, complete genome
+>MF444084.1 Hepatitis E virus isolate HEPAC-74, complete genome
+>MF444082.1 Hepatitis E virus isolate HEPAC-65, complete genome
+>MF444081.1 Hepatitis E virus isolate HEPAC-114, complete genome
+>MF444079.1 Hepatitis E virus isolate HEPAC-87, complete genome
+>MF444078.1 Hepatitis E virus isolate HEPAC-31, complete genome
+>MF444077.1 Hepatitis E virus isolate HEPAC-109, complete genome
+>MF444076.1 Hepatitis E virus isolate HEPAC-75, complete genome
+>MF444075.1 Hepatitis E virus isolate HEPAC-40, complete genome
+>MF444073.1 Hepatitis E virus isolate HEPAC-110, complete genome
+>MF444072.1 Hepatitis E virus isolate HEPAC-168, complete genome
+>MF444070.1 Hepatitis E virus isolate HEPAC-146, complete genome
+>MF444069.1 Hepatitis E virus isolate HEPAC-182, complete genome
+>MF444068.1 Hepatitis E virus isolate HEPAC-23, complete genome
+>MF444067.1 Hepatitis E virus isolate HEPAC-82, complete genome
+>MF444066.1 Hepatitis E virus isolate HEPAC-72, complete genome
+>MF444065.1 Hepatitis E virus isolate HEPAC-175, complete genome
+>MF444064.1 Hepatitis E virus isolate HEPAC-39, complete genome
+>MF444061.1 Hepatitis E virus isolate HEPAC-42, complete genome
+>MF444059.1 Hepatitis E virus isolate HEPAC-15, complete genome
+>MF444058.1 Hepatitis E virus isolate HEPAC-18, complete genome
+>MF444057.1 Hepatitis E virus isolate HEPAC-28, complete genome
+>MF444056.1 Hepatitis E virus isolate HEPAC-68, complete genome
+>MF444055.1 Hepatitis E virus isolate HEPAC-50, complete genome
+>MF444054.1 Hepatitis E virus isolate HEPAC-2, complete genome
+>MF444053.1 Hepatitis E virus isolate HEPAC-90, complete genome
+>MF444052.1 Hepatitis E virus isolate HEPAC-5, complete genome
+>MF444051.1 Hepatitis E virus isolate HEPAC-34, complete genome
+>MF444050.1 Hepatitis E virus isolate HEPAC-94, complete genome
+>MF444049.1 Hepatitis E virus isolate HEPAC-24, complete genome
+>MF444048.1 Hepatitis E virus isolate HEPAC-3, complete genome
+>MF444047.1 Hepatitis E virus isolate HEPAC-20, complete genome
+>MF444046.1 Hepatitis E virus isolate HEPAC-63, complete genome
+>MF444045.1 Hepatitis E virus isolate HEPAC-113, complete genome
+>MF444043.1 Hepatitis E virus isolate HEPAC-162, complete genome
+>MF444042.1 Hepatitis E virus isolate HEPAC-97, complete genome
+>MF444041.1 Hepatitis E virus isolate HEPAC-124, complete genome
+>MF444040.1 Hepatitis E virus isolate HEPAC-115, complete genome
+>MF444039.1 Hepatitis E virus isolate HEPAC-151, complete genome
+>MF444038.1 Hepatitis E virus isolate HEPAC-92, complete genome
+>MF444037.1 Hepatitis E virus isolate HEPAC-52, complete genome
+>MF444036.1 Hepatitis E virus isolate HEPAC-41, complete genome
+>MF444035.1 Hepatitis E virus isolate HEPAC-178, complete genome
+>MF444034.1 Hepatitis E virus isolate HEPAC-186, complete genome
+>MF444032.1 Hepatitis E virus isolate HEPAC-1, complete genome
+>MF444030.1 Hepatitis E virus isolate XTLSEGIR, complete genome
+>MF444029.1 Hepatitis E virus isolate XTLSECOE, complete genome
+>MF444028.1 Hepatitis E virus isolate XTLSEDU1, complete genome
+>MF444027.1 Hepatitis E virus isolate XTLSEJO1, complete genome
+>MH184584.1 Hepatitis E virus strain HEV_557, complete genome
+>MH184583.1 Hepatitis E virus strain HEV_493, complete genome
+>MH184582.1 Hepatitis E virus strain HEV_090, complete genome
+>MH184581.1 Hepatitis E virus strain HEV_022, complete genome
+>MH184580.1 Hepatitis E virus strain HEV_006_2, complete genome
+>MH184579.1 Hepatitis E virus strain HEV_006_1, complete genome
+>MG813927.1 Hepatitis E virus strain LCK-3110, complete genome
+>MH809516.1 Hepatitis E virus isolate NG/17-0500, complete genome
+>MG783571.1 Hepatitis E virus isolate DLS13-11685, complete genome
+>MG783570.1 Hepatitis E virus isolate DLS13-11681, complete genome
+>MG783569.1 Hepatitis E virus isolate DLS13-11677, complete genome
+>MG737712.1 Hepatitis E virus strain 2017-73347, complete genome
+>KY766999.1 Hepatitis E virus isolate SWHEV75BO2012, complete genome
+>MH074880.1 Hepatitis E virus strain Kol16, complete genome
+>MF480298.1 Hepatitis E virus strain rabbit/U46/GER/2013, complete genome
+>MF480297.1 Hepatitis E virus strain rabbit/R42/GER/2013, complete genome
+>KX172133.1 Hepatitis E virus isolate hGER15-0030, complete genome
+>KU980235.1 Hepatitis E virus isolate hGER15-0031, complete genome
+>MG674164.1 Hepatitis E virus isolate HEV/13RS985-5, complete genome
+>LC225387.1 Hepatitis E virus genomic RNA, complete genome, isolate: MNE15-072
+>MG573193.1 Hepatitis E virus isolate CH_VW117, complete genome
+>LC260517.1 Hepatitis E virus genomic RNA, complete genome, isolate: swHE1606845
+>KX827238.1 Swine hepatitis E virus strain swHLJ-BXBX, complete genome
+>KY496200.1 Hepatitis E virus isolate KOR-Rb-1, complete genome
+>KY780957.1 Hepatitis E virus type 3 isolate SW/16-0282, complete genome
+>KX981911.1 Swine hepatitis E virus isolate CCJD-517, complete genome
+>KU176132.1 Hepatitis E virus isolate TLS-S, complete genome
+>KU176131.1 Hepatitis E virus isolate TLS-D, complete genome
+>KU176130.1 Hepatitis E virus isolate TLS-C, complete genome
+>KU176129.1 Hepatitis E virus isolate TLS-B, complete genome
+>KX387867.1 Hepatitis E virus strain 62XJ, complete genome
+>KX387866.1 Hepatitis E virus strain 48XJ, complete genome
+>KX387865.1 Hepatitis E virus strain 12XJ, complete genome
+>KX589065.1 Hepatitis E virus strain little egret/kocsag02/2014/HUN, complete genome
+>KX227751.1 Hepatitis E virus isolate CHN-SX-rHEV, complete genome
+>KU670940.1 Hepatitis E virus strain kestrel/MR22/2014/HUN, complete genome
+>KU356189.1 Hepatitis E virus isolate cow-24, complete genome
+>KU356188.1 Hepatitis E virus isolate cow-3, complete genome
+>KU356187.1 Hepatitis E virus isolate cow-34, complete genome
+>KU356186.1 Hepatitis E virus isolate Goat-HEV-52, complete genome
+>KU356185.1 Hepatitis E virus isolate Goat-HEV-42, complete genome
+>KU356184.1 Hepatitis E virus isolate Goat-HEV-18, complete genome
+>KU356183.1 Hepatitis E virus isolate Goat-HEV-9, complete genome
+>KU356182.1 Hepatitis E virus isolate Goat-HEV-5, complete genome
+>KR872417.1 Hepatitis E virus isolate KM04, complete genome
+>KR872416.1 Hepatitis E virus isolate KM02, complete genome
+>KR872415.1 Hepatitis E virus isolate KM05, complete genome
+>KR872414.1 Hepatitis E virus isolate KM03, complete genome
+>AB850879.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA12-0725
+>KF736234.1 Hepatitis E virus isolate CHN-QH-Yak27, complete genome
+>KF176351.1 Swine hepatitis E virus isolate CHN-SD-sHEV, complete genome
+>KJ496144.1 Hepatitis E virus isolate 180C, complete genome
+>KJ496143.1 Hepatitis E virus isolate 178C, complete genome
+>KJ013415.1 Hepatitis E virus isolate CHN-BJ-r14(9), complete genome
+>KJ013414.1 Hepatitis E virus isolate CHN-BJ-r14(8), complete genome
+>JX855794.1 Swine hepatitis E virus strain SS19, complete genome
+>AB847309.1 Hepatitis E virus DNA, complete genome, isolate: ratIDE113F
+>AB847308.1 Hepatitis E virus DNA, complete genome, isolate: ratESOLO-006SF
+>AB847307.1 Hepatitis E virus DNA, complete genome, isolate: ratELOMB-187SF
+>AB847306.1 Hepatitis E virus DNA, complete genome, isolate: ratESOLO-014SF
+>AB847305.1 Hepatitis E virus DNA, complete genome, isolate: ratIDE079F
+>KC618403.1 Hepatitis E virus isolate 47832c, complete genome
+>KC618402.1 Hepatitis E virus isolate 47832, complete genome
+>KC492825.1 Hepatitis E virus strain CH-YT-HEV02, complete genome
+>AB740232.1 Hepatitis E virus RNA, complete genome, isolate: G3-HEV83-2-27
+>JF443726.1 Hepatitis E virus isolate IND-HEV-FHF5-2007, complete genome
+>JF443725.1 Hepatitis E virus isolate IND-HEV-FHF4-2006, complete genome
+>JF443724.1 Hepatitis E virus isolate IND-HEV-FHF3-2005, complete genome
+>JF443723.1 Hepatitis E virus isolate IND-HEV-FHF2-2004, complete genome
+>JF443722.1 Hepatitis E virus isolate IND-HEV-FHF1-2003, complete genome
+>JF443721.1 Hepatitis E virus isolate IND-HEV-AVH5-2010, complete genome
+>JF443720.1 Hepatitis E virus isolate IND-HEV-AVH4-2006, complete genome
+>JF443719.1 Hepatitis E virus isolate IND-HEV-AVH3-2000, complete genome
+>JF443718.1 Hepatitis E virus isolate IND-HEV-AVH2-1998, complete genome
+>JF443717.1 Hepatitis E virus isolate IND-HEV-AVH1-1991, complete genome
+>JX121233.1 Hepatitis E virus isolate CHN-BJ-R14, complete genome
+>JX109834.1 Hepatitis E virus isolate CHN-BJ-R14, complete genome
+>JQ740781.1 Hepatitis E virus isolate CHN-NJ-H2011, complete genome
+>JQ655734.1 Hepatitis E virus isolate W2-1, complete genome
+>JN167538.1 Hepatitis E virus strain rat/Mu09/0434/DEU/2010, complete genome
+>JN167537.1 Hepatitis E virus strain rat/Mu09/0685/DEU/2010, complete genome
+>JQ768461.1 Hepatitis E virus isolate CHN-BJ-rb14, complete genome
+>JN837481.1 Hepatitis E virus isolate US-C031008, complete genome
+>JN906976.1 Hepatitis E virus strain FR-SHEVB3f, complete genome
+>JN906975.1 Hepatitis E virus strain FR-SHEVF3f, complete genome
+>JN906974.1 Hepatitis E virus strain FR-HuHEVF3f, complete genome
+>JQ679014.1 Hepatitis E virus clone p1, complete genome
+>JQ679013.1 Hepatitis E virus clone p6, complete genome
+>GU361892.1 Swine hepatitis E virus strain hb-3, complete genome
+>AB602441.1 Hepatitis E virus genomic RNA, complete genome, isolate: wbJOY_06
+>HQ634346.1 Hepatitis E virus strain TW6196E, complete genome
+>FJ457024.1 Hepatitis E virus isolate HEV-H from India, complete genome
+>HQ389543.1 Hepatitis E virus strain Kernow-C1, complete genome
+>HQ709170.1 Hepatitis E virus strain Kernow-C1, complete genome
+>HQ389544.1 Hepatitis E virus strain Kernow-C1, complete genome
+>GU345043.1 Hepatitis E virus rat/R68/DEU/2009, complete genome
+>EU375463.1 Hepatitis E virus isolate Thai-swHEV07, complete genome
+>FJ653660.1 Hepatitis E virus isolate CU001, complete genome
+>HM439284.1 Hepatitis E virus isolate EChZ20, complete genome
+>AY575859.1 Hepatitis E virus clone pSHEV-3, complete genome
+>AY575858.1 Hepatitis E virus clone pSHEV-2, complete genome
+>AY575857.1 Hepatitis E virus clone pSHEV-1, complete genome
+>AY594199.1 Swine hepatitis E virus strain swCH25, complete genome
+>AY115488.1 Swine hepatitis E virus strain Arkell, complete genome
+>AF459438.1 Hepatitis E virus from North India, complete genome
+>AF444003.1 Hepatitis E virus clone pSK-HEV-3, complete genome
+>AF444002.1 Hepatitis E virus clone pSK-HEV-2, complete genome
+>EU495148.1 Hepatitis E virus isolate TLS25, complete genome
+>FJ956757.1 Hepatitis E virus isolate HEV_RKI, complete genome
+>FJ906896.1 Hepatitis E virus isolate GDC46, complete genome
+>FJ906895.1 Hepatitis E virus isolate GDC9, complete genome
+>GU188851.1 Swine hepatitis E virus isolate WH09, complete genome
+>AB236320.1 Hepatitis E virus genomic RNA, complete genome, isolate: JMNG-Oki02C
+>AB290313.1 Hepatitis E virus genomic RNA, complete genome, clone: swMN06-C1056
+>AB290312.1 Hepatitis E virus genomic RNA, complete genome, clone: swMN06-A1288
+>AB248522.1 Hepatitis E virus genomic RNA, complete genome, isolate: swJ12-4
+>AB248521.1 Hepatitis E virus genomic RNA, complete genome, isolate: swJ8-5
+>AB248520.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA04-1911
+>AB222184.1 Hepatitis E virus genomic RNA, complete genome, isolate: wbJYG1
+>AB222183.1 Hepatitis E virus genomic RNA, complete genome, isolate: wbJTS1
+>AB222182.1 Hepatitis E virus genomic RNA, complete genome, isolate: wbJSG1
+>AB097812.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA1
+>AB097811.1 Swine hepatitis E virus genomic RNA, complete genome, isolate: swJ13-1
+>AB369691.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, strain: E097-OSA05C
+>AB369690.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, strain: E067-SIJ05C
+>AB369689.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, strain: E088-STM04C
+>AB369688.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, strain: E087-SAP04C
+>AB369687.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, strain: E116-YKH98C
+>D11092.1 Hepatitis E virus genomic RNA, complete genome
+>EU366959.1 Hepatitis E virus isolate swGX32, complete genome
+>EF077630.1 Hepatitis E virus isolate Ch-S-1, complete genome
+>AJ272108.1 Hepatitis E virus (genotype 4) complete genome sequence
+>LC484431.1 Hepatitis E virus rbIM223LR genomic RNA, complete genome
+>LC387632.1 Hepatitis E virus type 4 HRC-HE58 genomic RNA, complete genome
+>LC387631.1 Hepatitis E virus type 4 HRC-HE15 genomic RNA, complete genome
+>LC436450.1 Hepatitis E virus TS1380 genomic RNA, complete genome
+>LC436449.1 Hepatitis E virus TS1372 genomic RNA, complete genome
+>LC428039.1 Hepatitis E virus RMKM15 genomic RNA, nearly complete genome
+>LC225389.1 Hepatitis E virus genomic RNA, complete genome, isolate: ratESUMBAWA-140L
+>LC225388.1 Hepatitis E virus genomic RNA, complete genome, isolate: ratEBali-2016D-047L
+>LC164712.1 Hepatitis E virus type 3 genomic RNA, nearly complete genome, isolate: JEO-Gif14
+>LC314158.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA16-0610
+>LC314157.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA15-1920
+>LC314156.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA15-1335
+>LC314155.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA14-2173
+>LC176493.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: HE-JA16-0579
+>LC176492.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: HE-JA16-0578
+>LC057248.1 Hepatitis E virus genomic RNA, complete genome, strain: CF4370
+>LC061267.1 Hepatitis E virus type 1 genomic RNA, complete genome, strain: G1 HEV p21
+>LC037955.1 Hepatitis E virus genomic RNA, complete genome, isolate: MNE13-227
+>LC055973.1 Hepatitis E virus type 3 genomic RNA, nearly complete genome, isolate: JMH-Sai14
+>LC055972.1 Hepatitis E virus type 3 genomic RNA, nearly complete genome, isolate: JAO-SpaTok12
+>LC022745.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JA30
+>AB909125.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JKK-Shiz13
+>AB909124.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JAO-Gif12
+>AB856243.1 Hepatitis E virus genomic RNA, complete genome, isolate: wbJNN_13
+>AB780453.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JBOAR124-Mie11
+>AB780452.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JBOAR111-Mie11
+>AB780451.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JBOAR107-Mie11
+>AB780450.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JBOAR100-Mie10
+>AB720035.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: E13-Ban10
+>AB720034.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: E11-Ban10
+>AB740222.1 Hepatitis E virus RNA, complete genome, clone: rbIM004
+>AB740221.1 Hepatitis E virus RNA, complete genome, clone: rbIM022
+>AB740220.1 Hepatitis E virus RNA, complete genome, clone: rbIM199
+>AB698654.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JTF-Yamagu11
+>AB593690.1 Hepatitis E virus type 3 genomic RNA, complete genome, isolate: JE03-1760F_p10/B
+>AB602440.1 Hepatitis E virus genomic RNA, complete genome, isolate: wbJGF_08-1
+>AB602439.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-Aichi-C1
+>AB573435.2 Hepatitis E virus genomic RNA, complete genome, isolate: JBOAR135-Shiz09
+>AB521806.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JYN-Shiz08L
+>AB521805.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JKS-Shiz07L
+>M94177.1 Hepataitis E virus complete genome
+>AB437318.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F, clone: pJE03-1760F/dORF3
+>AB437317.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F, clone: pJE03-1760F/fs
+>AB480825.1 Hepatitis E virus genomic RNA, complete genome, genotype 4, isolate: HE-JF5/15F_p6
+>AB437319.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F, clone: pJE03-1760F/dORF1
+>AB437316.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F, clone: pJE03-1760F/wt
+>AB193178.1 Hepatitis E virus genomic RNA, complete genome, isolate: JYN-Nii02L
+>AB193177.1 Hepatitis E virus genomic RNA, complete genome, isolate: JYN-Sap01C
+>AB193176.1 Hepatitis E virus genomic RNA, complete genome, isolate: JSF-Tot03C
+>AB200239.1 Hepatitis E virus genomic RNA, complete genome, isolate: JSN-Sap-FH02C
+>AB099347.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JK4
+>AB091395.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JSN-Sap-FH
+>AB091394.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JJT-Kan
+>AB089824.1 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA10
+>AB074920.3 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JMY-Haw
+>AB074917.3 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JKK-Sap
+>AB074915.3 Hepatitis E virus genomic RNA, nearly complete genome, isolate: JAK-Sai
+>AB074918.2 Hepatitis E virus genomic RNA, complete genome, isolate: JKN-Sap
+>AB425830.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F_p13-3
+>AB425831.1 Hepatitis E virus genomic RNA, complete genome, genotype 3, isolate: JE03-1760F_p5/B
+>AB362839.1 Hepatitis E virus genomic RNA, complete genome, isolate: 118d/Alex
+>AB362840.1 Hepatitis E virus genomic RNA, complete genome, isolate: 114d/A549
+>AB362841.1 Hepatitis E virus genomic RNA, complete genome, isolate: JE03-1760F_p0
+>AB362842.1 Hepatitis E virus genomic RNA, complete genome, isolate: JE03-1760F_p5
+>AB362843.1 Hepatitis E virus genomic RNA, complete genome, isolate: JE03-1760F_p10
+>AB108537.1 Hepatitis E virus genomic RNA, nearly complete genome, isolate:CCC220
+>AB246676.1 Hepatitis E virus genomic RNA, complete genome, isolate:HEVN1
+>X98292.1 Hepatitis E virus, complete genome
+>D11093.1 Hepatitis E virus complete genome sequence
+>AB189075.1 Hepatitis E virus genes for nonstructural protein, capsid protein, hypothetical protein, complete cds, isolate: JYO-Hyo03L
+>AB189074.1 Hepatitis E virus genes for nonstructural protein, capsid protein, hypothetical protein, complete cds, isolate: JTH-Hyo03L
+>AB189073.1 Hepatitis E virus genes for nonstructural protein, capsid protein, hypothetical protein, complete cds, isolate: JSO-Hyo03L
+>AB189072.1 Hepatitis E virus genes for nonstructural protein, capsid protein, hypothetical protein, complete cds, isolate: JMO-Hyo03L
+>AY204877.1 Hepatitis E virus strain T3 from Chad polyprotein gene, partial cds; and ORF3 and structural protein genes, complete cds
+>HM055578.1 Hepatitis E virus strain HEV072/sw/HUN-05, partial genome
+>KP698920.1 Hepatitis E virus isolate SwHEVE14IT12 polyprotein (ORF1) gene, partial cds; and pORF3 (ORF3) and capsid protein (ORF2) genes, complete cds
+>KP698919.1 Hepatitis E virus isolate SwHEVE2IT12 polyprotein (ORF1), pORF3 (ORF3), and capsid protein (ORF2) genes, complete cds
+>LC386856.1 Hepatitis E virus huJB-2877 ORF3, ORF2 genes for hypothetical protein, capsid protein, complete cds
+>KX462160.1 Hepatitis E virus type 3 isolate SLC-4 polyprotein gene, partial cds; and phosphoprotein and capsid protein genes, complete cds
+>KT591534.1 Hepatitis E virus isolate FR-HEV-GD3 polyprotein and hypothetical protein genes, complete cds; and capsid protein gene, partial cds
+>KT591533.1 Hepatitis E virus isolate FR-HEV-GD2 polyprotein and hypothetical protein genes, complete cds; and capsid protein gene, partial cds
+>KT591532.1 Hepatitis E virus isolate FR-HEV-GD1 polyprotein and hypothetical protein genes, complete cds; and capsid protein gene, partial cds
+>KU513561.1 Hepatitis E virus isolate IC2011 nonstructural polyprotein and hypothetical protein genes, complete cds; and capsid protein gene, partial cds
+>KF922359.1 Hepatitis E virus isolate rt93100008 ORF1 gene, partial cds; and ORF3 and ORF2 genes, complete cds
+>M73218.1 Hepatitis E structural and nonstructural protein mRNA, complete cds'
+>EU849134.1 Hepatitis E virus isolate KNIH-KHS capsid protein gene, partial cds
+>EU849133.1 Hepatitis E virus isolate KNIH-KHS1 non-structural protein gene, partial cds
+>JN052926.1 Swine hepatitis E virus isolate SHEV-JX1 capsid protein gene, partial cds
+>KJ508001.1 Swine hepatitis E virus strain swSTHY-282V/2013/CA capsid protein gene, partial cds
+>KJ508000.1 Swine hepatitis E virus strain swSTHY-384V/2013/CA capsid protein gene, partial cds
+>KJ507999.1 Swine hepatitis E virus strain swSTHY-173V/2013/CA capsid protein gene, partial cds
+>KJ507998.1 Swine hepatitis E virus strain swSTHY-118V/2013/CA capsid protein gene, partial cds
+>KJ507997.1 Swine hepatitis E virus strain swSTHY-54V/2013/CA capsid protein gene, partial cds
+>KJ507996.1 Swine hepatitis E virus strain swSTHY-261V/2013/CA capsid protein gene, partial cds
+>KJ507995.1 Swine hepatitis E virus strain swSTHY-130V/2013/CA capsid protein gene, partial cds
+>KJ507994.1 Swine hepatitis E virus strain swSTHY-125V/2013/CA capsid protein gene, partial cds
+>KJ507993.1 Swine hepatitis E virus strain swSTHY-37V/2013/CA capsid protein gene, partial cds
+>KJ507992.1 Swine hepatitis E virus strain swSTHY-334V/2013/CA capsid protein gene, partial cds
+>KJ507991.1 Swine hepatitis E virus strain swSTHY-245V/2013/CA capsid protein gene, partial cds
+>KJ507990.1 Swine hepatitis E virus strain swSTHY-161V/2013/CA capsid protein gene, partial cds
+>KJ507989.1 Swine hepatitis E virus strain swSTHY-9V/2013/CA capsid protein gene, partial cds
+>KJ507988.1 Swine hepatitis E virus strain swSTHY-VA124LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507987.1 Swine hepatitis E virus strain swSTHY-VD505LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507986.1 Swine hepatitis E virus strain swSTHY-VD070LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507985.1 Swine hepatitis E virus strain swSTHY-VC027LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507984.1 Swine hepatitis E virus strain swSTHY-VB7120LV/2012/CA nonstructural polyprotein gene, partial cds
+>KJ507983.1 Swine hepatitis E virus strain swSTHY-VB5785LV/2012/CA nonstructural polyprotein gene, partial cds
+>KJ507982.1 Swine hepatitis E virus strain swSTHY-VB5783L/2012/CA nonstructural polyprotein gene, partial cds
+>KJ507981.1 Swine hepatitis E virus strain swSTHY-VB1618LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507980.1 Swine hepatitis E virus strain swSTHY-VB1549LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507979.1 Swine hepatitis E virus strain swSTHY-VB1544LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507978.1 Swine hepatitis E virus strain swSTHY-VA163LV/2012/CA nonstructural polyprotein gene, partial cds
+>KJ507977.1 Swine hepatitis E virus strain swSTHY-VA053LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507976.1 Swine hepatitis E virus strain swSTHY-VA034LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507975.1 Swine hepatitis E virus strain swSTHY-VA031LV/2011/CA nonstructural polyprotein gene, partial cds
+>KJ507974.1 Swine hepatitis E virus strain swSTHY-392V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507973.1 Swine hepatitis E virus strain swSTHY-52V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507972.1 Swine hepatitis E virus strain swSTHY-58V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507971.1 Swine hepatitis E virus strain swSTHY-384V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507970.1 Swine hepatitis E virus strain swSTHY-173V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507969.1 Swine hepatitis E virus strain swSTHY-118V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507968.1 Swine hepatitis E virus strain swSTHY-54V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507967.1 Swine hepatitis E virus strain swSTHY-282V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507966.1 Swine hepatitis E virus strain swSTHY-261V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507965.1 Swine hepatitis E virus strain swSTHY-130V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507964.1 Swine hepatitis E virus strain swSTHY-125V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507963.1 Swine hepatitis E virus strain swSTHY-37V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507962.1 Swine hepatitis E virus strain swSTHY-334V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507961.1 Swine hepatitis E virus strain swSTHY-245V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507960.1 Swine hepatitis E virus strain swSTHY-161V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507959.1 Swine hepatitis E virus strain swSTHY-9V/2013/CA nonstructural polyprotein gene, partial cds
+>KJ507958.1 Hepatitis E virus strain HuSTHY-CHUSJPT4-1V/2010/CA nonstructural polyprotein gene, partial cds
+>KJ507957.1 Hepatitis E virus strain HuSTHY-CHUSJPT11-6V/2010/CA nonstructural polyprotein gene, partial cds
+>L08816.1 Hepatitis E virus ORF1, ORF2, ORF3,complete cds's; methyltransferase, Y domain, papain-like protease, poly-proline hinge, X domain, helicase and RNA-directed RNA polymerase genes, partial cds's
+>L10337.1 Hepatitis E virus RNA-directed RNA polymerase gene, partial cds
+>AB073911.1 Swine hepatitis E virus gene for capsid protein, partial cds, strain: swJ791
+>AB073910.1 Swine hepatitis E virus gene for capsid protein, partial cds, strain: swJ681
+>AB073909.1 Swine hepatitis E virus gene for capsid protein, partial cds, strain: swJ570
